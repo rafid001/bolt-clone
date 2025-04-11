@@ -132,7 +132,6 @@ const Header = (props: Props) => {
                   <Button variant="outline">Login</Button>
                 </DialogTrigger>
                 <DialogContent className="sm:max-w-[425px]">
-                  <DialogTitle>Authentication</DialogTitle>
                   <AuthenticationDialog defaultTab="login" />
                 </DialogContent>
               </Dialog>
@@ -142,7 +141,6 @@ const Header = (props: Props) => {
                   <Button>Signup</Button>
                 </DialogTrigger>
                 <DialogContent className="sm:max-w-[425px]">
-                  <DialogTitle>Authentication</DialogTitle>
                   <AuthenticationDialog defaultTab="signup" />
                 </DialogContent>
               </Dialog>
