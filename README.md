@@ -28,6 +28,3 @@ Bolt is a NextJS application that leverages AI to generate and preview React cod
 3. Set up your environment variables (see `.env.example`)
 4. Run the development server: `npm run dev`
 
-## License
-
-MIT
